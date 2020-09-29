@@ -13,7 +13,7 @@ date | value
 1952-02-01 | 156527.000
 1952-03-01 | 156731.000
 
-![Image of Yaktocat] (https://github.com/Ssamikarann/US-population/blob/master/images/download.png)
+![US Population Plot](https://github.com/Ssamikarann/US-population/blob/master/images/download.png)
 
 
 
